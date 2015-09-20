@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="gainline">#DCDCDD</color>
+    <color name="wild_sand">#F4F4F4</color>
+    <color name="wild_sand_trans">#e0F4F4F4</color>
+    <color name="mint_tulip">#C5F1E9</color>
+    <color name="fb_blue">#4E92DF</color>
+    <color name="fb_blue_bg">#35659B</color>
+    <color name="google_red">#FC354B</color>
+    <color name="google_red_bg">#B02434</color>
+    <color name="line_green">#23CB23</color>
+    <color name="line_green_bg">#168E17</color>
+    <color name="assist_green">#44C9AB</color>
+    <color name="assist_green_bg">#2F8C77</color>
+    <color name="don_juan">#595150</color>
+    <color name="silver_sand">#BBBBBB</color>
+    <color name="zeus">#3D3935</color>
+    <color name="white_smoke">#F5F5F5</color>
+    <color name="fiord">#474F66</color>
+    <color name="seashell">#000000</color>
+    <color name="amaranth">#F13950</color>
+    <color name="carmine_pink">#F24851</color>
+    <color name="aluminum">#979797</color>
+    <color name="bwhite">#EDEDED</color>
+    <color name="sauvignon">#F7ECE4</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="photo_bg">#e0e0e0</color>
+    <color name="photo_item_bg">#d0d0d0</color>
+    <color name="jacaranda">#9F000000</color>
+
+    <color name="caver">#c0000000</color>
+
+</resources>
